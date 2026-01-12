@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@core/unknownutil": "jsr:@core/unknownutil@^4.3.0",
+    "@denops/core": "jsr:@denops/core@^8.0.1",
+    "@denops/std": "jsr:@denops/std@^8.2.0",
+    "@shougo/ddu-vim": "jsr:@shougo/ddu-vim@^11.1.0"
+  }
+}
